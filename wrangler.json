@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "flat-fog-a672",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "72aa308b-e316-43f9-8e19-356838f7c7f9",
+      "database_name": "green-water-d387-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
